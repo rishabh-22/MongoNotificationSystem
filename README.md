@@ -29,3 +29,7 @@ Also, the user is required to enable access to less secure applications in order
 Some things which I wanted to implement but couldn't due to lack of time: 
 * Make this into an actual web application which would accept the emails like a subscribe-to-emails list.
 * The name of the DB here is fixed (`changestream`). Would like to implement a method which will accept the name as an argument. Hence, multiple such instances could be brought up for different databases with ease. 
+
+
+## References
+I took help from the official mongo website to look up for change streams for python and stackoverflow.
